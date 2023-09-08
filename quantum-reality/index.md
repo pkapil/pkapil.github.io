@@ -22,7 +22,7 @@ Some arguments/ideas  from the video are criticized and been the subject for 
 
 Other mystery is Quantum entanglement, 
 
-Here is a video illustrating the idea of quantum entanglement.
+Here is a video illustrating the idea of quantum entanglement.<br>
 [![Doubleslit](https://img.youtube.com/vi/Fz42YkX7HLw/0.jpg)](https://www.youtube.com/watch?v=Fz42YkX7HLw)
 
 ### Thoughts
